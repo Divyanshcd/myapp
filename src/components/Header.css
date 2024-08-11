@@ -1,0 +1,46 @@
+/* .headerColor {
+    background-color: #ffcccc;
+} */
+
+/* .navbar {
+    background-color: #FFCCCC;
+    color: #333333;
+} */
+
+/* .navbar {
+    background-color: #FFCCCC;
+    color: #4A4A4A;
+} */
+
+/* Style the navbar */
+.navbar {
+    background-color: #FFCCCC; /* Background color of the navbar */
+}
+
+/* Style the brand name */
+.navbar-brand {
+    color: #333333; /* Font color for the brand name */
+    text-decoration: none; /* Remove underline if present */
+}
+
+.navbar-brand:hover {
+    color: #D76B8F; /* Optional: color change on hover */
+}
+
+/* Style the menu items */
+.navbar-nav .nav-link {
+    color: #333333; /* Font color for menu items */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #D76B8F; /* Optional: color change on hover for menu items */
+}
+
+/* Optional: style for active menu items */
+.navbar-nav .nav-item.active .nav-link {
+    color: #D76B8F; /* Color for the active menu item */
+}
+
+
+
+
